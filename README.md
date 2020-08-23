@@ -1,6 +1,6 @@
 ## Hi , I'm Ferris - aka Nachtschrecken
 
-### I'm a Student, Digital Native, Hamster Dad and Google 
+### I'm a Student, Digital Native, Hamster Dad and Google Enthusiast
 
 - 📚 I'm studying Computer Science in Leipzig, Germany
 - 💻 My current programming languages: Golang, Kotlin, Java, C
