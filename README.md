@@ -3,9 +3,9 @@
 ### I'm a Student, Digital Native, Hamster Dad and Google Enthusiast
 
 - 📚 I'm studying Computer Science in Leipzig, Germany
-- 💻 My current programming languages: Golang, Kotlin, Java, C
+- 💻 My current programming languages: Golang, Kotlin, Java, C/C++, Python, Haskell
 - 🌱 I love minimalistic & material design
-- 🏆 My Goals for 2020: Learning a solid base for coding
+- 🏆 My Goals for 2021: Studying and being productive
 - 🎮 Favorite games are World of Warcraft and Cyberpunk 2077
 - 🎧 Favorite music to code: Vaporwave, World of Warcraft Soundtrack
 - ❤️ 10.09.2016
