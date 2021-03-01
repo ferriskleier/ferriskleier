@@ -21,7 +21,7 @@
 <br />
 <br />
 
-[website]: https://nachtschrecken.com
+[website]: https://www.nachtschrecken.com/
 [twitter]: https://twitter.com/Nachtschrecken
 [youtube]: https://www.youtube.com/channel/UCO5VaBg-ahdvx1MY6-9uHtw?view_as=subscriber
 [reddit]: https://www.reddit.com/user/NachtschreckenDE
