@@ -2,12 +2,12 @@
 
 ### I'm a Student, Digital Native, Hamster Dad and Google Enthusiast
 
-- 📚 I'm studying Computer Science in Leipzig, Germany
+- 📚 Studying Computer Science in Leipzig, Germany
 - 💻 My current programming languages: Golang, Kotlin, Java, C/C++, Python
 - 🌱 I love minimalistic & material design
-- 🏆 My Goals for 2021: Studying and being productive
-- 🎮 Favorite games are World of Warcraft, Ghost Recon: Breakpoint and The Elder Scrolls
-- 🎧 Favorite music to code: Vaporwave, World of Warcraft Soundtrack
+- 🏆 Goals for 2021: Studying and being productive
+- 🎮 Favorite games: World of Warcraft, Ghost Recon: Breakpoint and The Elder Scrolls
+- 🎧 Favorite music to code: World of Warcraft Soundtrack, Vaporwave
 - ❤️ 10.09.2016
 
 ### Connect with me:
