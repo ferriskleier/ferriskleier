@@ -3,8 +3,8 @@
 ### I'm a Student, Digital Native, Hamster Dad and Minimalist
 
 - 📚 Studying Computer Science in Leipzig, Germany
-- 💻 My main programming languages: TypeScript, Golang & Python
-- 🌱 I love minimalist & material design
-- 🏆 Goals for 2023: Finishing University and start working
-- 🎮 Favorite games: World of Warcraft, Ghost Recon: Breakpoint and The Elder Scrolls
-- 🎧 Favorite music to code: World of Warcraft Soundtrack, Vaporwave
+- 💻 My main programming languages: Go, Python, Typescript (Angular)
+- 🌱 I love minimalist & futuristic design
+- 🏆 Goals for 2023: Graduating from university
+- 🎮 Favorite games are World of Warcraft, Death Stranding
+- 🎧 Favorite music to code: Vaporwave, World of Warcraft Soundtrack
