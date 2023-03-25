@@ -1,6 +1,6 @@
 ## Hi , I'm Ferris - aka Nachtschrecken
 
-### I'm a Software Architect, Digital Native, Hamster Dad and Minimalist
+### I'm a Software Developer, Digital Native, Hamster Dad and Minimalist
 
 - 📚 Working as a software consultant in Germany
 - 💻 Current programming languages: Go, Python, Typescript (Angular)
