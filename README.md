@@ -2,8 +2,8 @@
 
 ### I'm a Software Developer, Digital Native, Hamster Dad and Minimalist
 
-- 📚 Working as a software consultant in Germany
-- 💻 Current programming languages: Go, Python, Typescript (Angular)
+- 📚 Working as a software developer in Germany
+- 💻 Current programming languages: Typescript (Angular), Go, Python
 - 🌱 I love minimalist & futuristic design
 - 🏆 Goal for 2023: Reading at least 14 books
 - 🎮 Favorite games are World of Warcraft, Death Stranding
