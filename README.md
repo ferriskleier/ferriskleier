@@ -1,4 +1,4 @@
-## Hi , I'm Ferris - aka Nachtschrecken
+## Hi , I'm Ferris
 
 ### I'm a Software Developer, Digital Native, Hamster Dad and Minimalist
 
