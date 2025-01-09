@@ -1,10 +1,10 @@
 ## Hi , I'm Ferris
 
-### I'm a Software Developer, Digital Native, Hamster Dad and Minimalist
+### I'm a Software Developer from Germany
 
 - 📚 Working as a software developer in Germany
-- 💻 Current programming languages: Typescript (Angular), Go, Python
-- 🌱 I love minimalist & futuristic design
-- 🏆 Goal for 2024: Reading the complete Hardvard Classics Series
-- 🎮 Favorite games are World of Warcraft, Death Stranding
+- 💻 Current programming languages: Typescript, Go, Python
+- 🤖 Specialization: Machine Learning
+- 🌱 I love minimalist & art deco design
+- 🎮 Favorite games are World of Warcraft, Jak & Daxter, Sonic franchise
 - 🎧 Favorite music to code: Vaporwave, World of Warcraft Soundtrack
