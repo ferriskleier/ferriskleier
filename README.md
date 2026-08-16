@@ -1,10 +1,11 @@
-## Hi , I'm Ferris
+<pre>
+ferris kleier
+software developer · leipzig, germany
 
-### I'm a Software Developer from Germany
+  focus       ai engineering and machine learning
+  languages   typescript · go · rust
+  interests   minimalist design, decentralization, typography
 
-- 📚 Working as a software developer in Germany
-- 💻 Current programming languages: Typescript, Go, Rust
-- 🤖 Specialization: Machine Learning
-- 🌱 I love minimalist & art deco design
-- 🎮 Favorite games are World of Warcraft, Jak & Daxter
-- 🎧 Favorite music to code: Vaporwave, World of Warcraft Soundtrack
+  writing     <a href="https://stoicvulpes.substack.com/">stoicvulpes.substack.com</a>
+  site        <a href="https://ferris.uldagon.com/">ferris.uldagon.com</a>
+</pre>
